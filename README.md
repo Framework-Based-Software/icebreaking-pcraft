@@ -3,7 +3,7 @@
 Hi! I'm Zohaib, a student in the Framework-Based Software Design and Development course. 
 I expect to utilize nodejs based framework to work on creating a web app
 
-![My Image]("WhatsApp Image 2025-03-15 at 21.12.22.jpeg")  <!-- Link to the uploaded image -->
+![My Image](WhatsApp%20Image%202025-03-15%20at%2021.12.22.jpeg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
