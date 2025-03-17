@@ -1,7 +1,10 @@
 # Hello, I'm pcraft 👋
 
+style{
+}
+
 <div align="center">
-  <img src="https://github.com/Framework-Based-Software/icebreaking-pcraft/blob/profile-upload/WhatsApp%20Image%202025-03-15%20at%2021.12.22.jpeg" width="200" height="200" style="border-radius:50%;" alt="Profile Image"/>
+  <img src="https://github.com/Framework-Based-Software/icebreaking-pcraft/blob/profile-upload/WhatsApp%20Image%202025-03-15%20at%2021.12.22.jpeg" width="200" height="200" style="border-radius:50;" alt="Profile Image"/>
 </div>
 
 ## 💻 About Me
